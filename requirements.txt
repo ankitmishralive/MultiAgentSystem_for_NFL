@@ -1,0 +1,12 @@
+
+
+crewai 
+
+
+# langchain_google_genai    # Google Gemini Model 
+
+load_dotenv
+
+crewai_tools
+
+
